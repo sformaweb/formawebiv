@@ -39,7 +39,7 @@ Vexamos algunhas posibilidades:
 
 1. **VSCode**: [Visual Studio Code](https://code.visualstudio.com/), é un editor de código aberto de Microsoft. É un editor de texto que se pode executar en calquera dispositivo, ben sexa Linux, Windows ou Mac.
 
-   ![Code](assets\VSCode.png)
+   ![Code](https://www.dropbox.com/home/Public/assets/VSCode.png)
 
    Moi centrado en aumentar o rendemento e con características coma o autocompletado ou a depuración do sistema que axudan nas tarefas diarias - as veces repetitivas- de desenvolvemento.
 
@@ -51,7 +51,7 @@ Vexamos algunhas posibilidades:
 
 2. **[Sublime Text](https://www.sublimetext.com/)**: O candidato de sempre. Unha aplicación moi lixeira que sinalou o camiño a outras e cun considerable e incondicional número de adeptos.
 
-   ![SublimeText](assets\sublimetext-full.jpg)
+   ![SublimeText](assets/sublimetext-full.jpg)
 
    Con varios complementos moi prácticos, destaca polos atallos de teclado - fácil integración con Emmet-, unha interface moi sinxela e fácil de usar.
 
@@ -59,7 +59,7 @@ Vexamos algunhas posibilidades:
 
 3. **[Atom](https://atom.io/)**: outro editor de código aberto dispoñible tanto para Linux coma para Windows ou Mac. Atom é compatible co control de versións de Git e dispón de centos de plugins - escritos en JavaScript-.
 
-   ![Atom](assets\atom-compressor.jpg)
+   ![Atom](https://www.dropbox.com/home/Public/assets/atom-compressor.jpg)
 
    Permite compartir o progreso do proxecto con colaboradores. E empregando Teletype para Atom (‎que permite tanto compartir coñecementos coma ensinalos‎) o converte nun moi interesante proxecto.
 
