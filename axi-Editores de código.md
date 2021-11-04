@@ -126,3 +126,7 @@ _____
 ###### NOTAS:
 
 [*1]:  - o seguinte na lista: [Backets](https://brackets.io/) de Adobe, empapelado xa para o lixo cibernético a menos que a comunidade consiga chegar a cita en Novembro 2021. 
+
+
+
+OUT 2021
