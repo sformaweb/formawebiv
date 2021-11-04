@@ -67,7 +67,7 @@ Vexamos algunhas posibilidades:
 
 4. [NetBeans](https://netbeans.org/): seguramente un dos preferidos polos deseñadores web. Sendo un editor de texto é o que máis se presenta coma un complexo IDE. Versátil e moi completo é compatible con diferentes linguaxes de programación. Moi interesante para o desenvolvemento con Angular e tamén para traballar con Node.js.
 
-   ![NetBeans](C:\Users\xyz\Documents\aprendendo-cousas\assets\netbeans-jar.png)
+   ![NetBeans](assets/netbeans-jar.png)
 
    Dispoñible para Mac, Windows e Linux
 
@@ -75,7 +75,7 @@ Vexamos algunhas posibilidades:
 
 6. **Brackets**: de **[Brackets](http://brackets.io/)** poderíase falar bastante e case todo bo.
 
-   ![img](https://rootear.com/files/2016/08/Brackets-Editor-Cdigo-Windows-Foto.jpg)
+   ![Brackets](https://brackets.io/img/hero.png)
 
    Aínda que o seu avalista Adobe abandonará o seu desenvolvemento -set.2021- cedéndolle todo o protagonismo á comunidade de usuarios, que agora serán os encargados de continuar facendoio unha alternativa ben interesante.
 
