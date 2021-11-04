@@ -39,7 +39,7 @@ Vexamos algunhas posibilidades:
 
 1. **VSCode**: [Visual Studio Code](https://code.visualstudio.com/), é un editor de código aberto de Microsoft. É un editor de texto que se pode executar en calquera dispositivo, ben sexa Linux, Windows ou Mac.
 
-   ![Code](https://www.dropbox.com/home/Public/assets/VSCode.png)
+   ![Code](https://pbs.twimg.com/media/Ex_OzQ4WUAIekiu.png)
 
    Moi centrado en aumentar o rendemento e con características coma o autocompletado ou a depuración do sistema que axudan nas tarefas diarias - as veces repetitivas- de desenvolvemento.
 
@@ -59,7 +59,7 @@ Vexamos algunhas posibilidades:
 
 3. **[Atom](https://atom.io/)**: outro editor de código aberto dispoñible tanto para Linux coma para Windows ou Mac. Atom é compatible co control de versións de Git e dispón de centos de plugins - escritos en JavaScript-.
 
-   ![Atom](https://www.dropbox.com/home/Public/assets/atom-compressor.jpghttps://previews.dropbox.com/p/thumb/ABVP5HVMSChGJykorfGBbhR01F6d_Bhhb7_MdfGPUSsnfrVCzw4tDXmW119qQYEb1fwf-p5iXZMYn3UyRZzbUc4y4eRbNo6fDtE49kybkeoD9tIondJTiuobh2GaPZMY-WXVOX-f96--RdWP9zI4H37Aien_xdmLAa98deZ6HqsjjBC-tiebhuzy-_Ifdx9rwEHGSIOQkUhhaaFcjvbT9zzwgPjmahrK7R3wruhg8snP4ERUDMZf1mj6zIymrGfDZkBGbiYBVQ36SESbzQxjpT85cdoZWFPNDLHBJW3LTdklm4u0RvA71L0ocHe3DLhkVnR8E30pVJKztltL_2iRfJydRvqftYldBocrAnL7HXM1EQ/p.jpeg?fv_content=true&size_mode=5)
+   ![Atom](https://flight-manual.atom.io/getting-started/images/windows-downloads.png)
 
    Permite compartir o progreso do proxecto con colaboradores. E empregando Teletype para Atom (‎que permite tanto compartir coñecementos coma ensinalos‎) o converte nun moi interesante proxecto.
 
@@ -67,7 +67,7 @@ Vexamos algunhas posibilidades:
 
 4. [NetBeans](https://netbeans.org/): seguramente un dos preferidos polos deseñadores web. Sendo un editor de texto é o que máis se presenta coma un complexo IDE. Versátil e moi completo é compatible con diferentes linguaxes de programación. Moi interesante para o desenvolvemento con Angular e tamén para traballar con Node.js.
 
-   ![NetBeans](assets/netbeans-jar.png)
+   ![NetBeans](https://pbs.twimg.com/media/CZF2vWTUsAETj28.png)
 
    Dispoñible para Mac, Windows e Linux
 
