@@ -80,7 +80,7 @@ Proba Lighthouse no explorador. Nas capturas de pantalla seguintes úsase Edge, 
 
 3. Na parte superior, selecciona o botón de contido adicional (>>) para abrir a lista de pestanas ocultas.
 
-Captura de pantalla de las herramientas de desarrollo con el botón de contenido adicional resaltado.
+![Captura de pantalla das ferramentas de desenvolvemento có botón de contido adicional resaltado.](./assets/choose-tab.png)
 
 4. Selecciona Lighthouse na lista.
 
@@ -88,7 +88,7 @@ Captura de pantalla de las herramientas de desarrollo con el botón de contenido
 
 6. En Device (Dispositivo), selecciona Desktop (Escritorio).
 
-Captura de pantalla de Lighthouse con solo Accessibility (Accesibilidad) seleccionado en Categories (Categorías), y Desktop (Escritorio) seleccionado en Device (Dispositivo).
+![Captura de pantalla de Lighthouse con Accessibility (Accesibilidad) seleccionado en Categories (Categorías), e Desktop (Escritorio) seleccionado en Device (Dispositivo).](./assets/lighthouse-option-selection.png)
 
 7. Selecciona 'Generate report' (Xerar informe).
 
@@ -96,7 +96,7 @@ Captura de pantalla de Lighthouse con solo Accessibility (Accesibilidad) selecci
 
 9. Para probar outras páxinas, selecciona Clear all (Borrar todo) en Lighthouse, vai a outra páxina e, a continuación, selecciona Generate report (Xerar informe).
 
-Captura de pantalla de la sección de URL de Lighthouse, con el botón para borrar todos los elementos resaltado.
+![Captura de pantalla da sección de URL de Lighthouse, có botón para borrar todos os elementos resaltado.](C:\Users\User\Documents\GitHub\formawebiv\assets\lighthouse-clear.png)
 
 Xa coñeces Lighthouse, e a información sobre accesibilidade que pode proporcionar. Emprega agora a ferramenta nos teus proxectos para mellorar a accesibilidade dos mesmos.
 
@@ -229,7 +229,9 @@ E demostrará que sabes resolver dous problemas dunha vez. :champagne:
 
 Toma este HTML e reescribío para que sexa o máis accesible posible, dadas as estratexias que aprendeches.
 
-```<!DOCTYPE html>
+
+```html
+<!DOCTYPE html>
 <html>
   <head>
     <title>
@@ -275,7 +277,10 @@ Toma este HTML e reescribío para que sexa o máis accesible posible, dadas as e
       <p class="footer-copyright">&copy; 2016 Instrument</span>
     </div>
   </body>
-</html>```
+</html>
+```
+
+
 
 
 
@@ -333,7 +338,7 @@ Estamos codificando para que a información sexa accesible ás persoas que usan 
 
 Máis información: [interactiveaccessibility](https://interactiveaccessibility.com/blog/how-write-user-stories-accessibility-requirements)
 
-Podes tomar esta lección en [Microsoft Learn](https://docs.microsoft.com/learn/modules/web-development-101/accessibility?WT.mc_id=academic-13441-cxa) !
+Podes tomar esta lección en [Microsoft Learn](https://docs.microsoft.com/learn/modules/web-development-101/accessibility?WT.mc_id=academic-13441-cxa)
 
 OUT 2021
 Revisión Nov 2021

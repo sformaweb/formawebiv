@@ -1,4 +1,5 @@
 # Pasos básicos con Git
+É rocomendable ler, alo menos, a guía de [inicio rápido](https://docs.github.com/es/get-started/quickstart).
 
 ## Crear o proxecto local
 
