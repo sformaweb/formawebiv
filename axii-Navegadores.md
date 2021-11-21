@@ -40,3 +40,13 @@ Amplía os teus coñecementos sobre os navegadores, a súa historia e a mesma hi
 
 - [Historia dos navegadores](https://www.mozilla.org/es-ES/firefox/browsers/browser-history/)
 - [Historia da web](https://webfoundation.org/about/vision/history-of-the-web/)
+
+
+
+OUT 2021
+
+
+
+ref:
+
+- 

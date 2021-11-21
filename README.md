@@ -1,8 +1,15 @@
 # formaweb iv
 
-Guías paro o Obradoiro de emprego **Formaweb IV**.
+Guías e lecturas complementarias para o Obradoiro de emprego **Formaweb IV**.
 
 Concello de Vigo
+
+
+
+
+
+ismael bernardez, titor
+@nunhes
 
 ___
 

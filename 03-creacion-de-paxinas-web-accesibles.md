@@ -193,8 +193,9 @@ Podes usar `aria-label` para describir unha ligazón cando o formato da páxina 
 
 ✅En xeral, o uso dun marcado semántico axustado substitúe o uso de ARIA, pero ás veces non hai un equivalente semántico para os varios usos dos elementos HTML. Un bo exemplo é un esquema ou diagrama en árbore. Non hai un equivalente HTML para definir dita árbore, polo que so se identificaran os xenéricos `<div>` que comporían ese elemento. A menos que conten con roles e valores de aria adaptados. Consulta a [documentación de MDN sobre ARIA](https://developer.mozilla.org/docs/Web/Accessibility/ARIA).
 
-```
-< h2 id =" tree-label " > Visor de ficheiros </ h2 > < div role =" árbore " aria-labelledby =" etiqueta da árbore " > < div role =" treeitem " aria-expanded =" false " tabindex =" 0 " > Cargas </ div > </ div >  
+```html
+<h2 id="tree-label">Visor de arquivos</h2>
+<div role="tree" aria-labelledby ="tag for tree" > < div role =" treeitem " aria-expanded =" false " tabindex =" 0 " > Cargas </ div > </ div >  
   
      
 ```
@@ -334,7 +335,15 @@ Estamos codificando para que a información sexa accesible ás persoas que usan 
 - Fai que as [probas](https://accessibility.umn.edu/node/296) básicas de [accesibilidade](https://accessibility.umn.edu/node/296) formen parte do proceso de garantía de calidade ou de aceptación do usuario.
 - Fai da accesibilidade un requisito creando unha [historia de usuario](http://www.interactiveaccessibility.com/blog/how-write-user-stories-accessibility-requirements) para cada proxecto.
 
+​	Desafío
 
+
+
+## Proba
+
+A mellor maneira de entender como facer que as páxinas sexan accesibles e o impacto das decisións que se toman ao crear HTML é empregar algunhas das ferramientas que emplean os usuarios para navegar pola Web.
+
+Desprázate por un par de páxinas mediante un lector de pantalla. Abre un sitio web que teña un formulario e use só o teclado para completalo. Esta actividade daráche unha idea do que algunos usuarios experimentan a diario al usar la Web y la importancia de garantizar que las páginas sean accesibles.
 
 Máis información: [interactiveaccessibility](https://interactiveaccessibility.com/blog/how-write-user-stories-accessibility-requirements)
 

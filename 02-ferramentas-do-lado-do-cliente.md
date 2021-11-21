@@ -138,7 +138,7 @@ Probablemente necesites unha combinación das seguintes cousas:
 
 Cando escolles unha ferramenta para usar, o primeiro punto a visitar debería ser a páxina de inicio do proxecto da ferramenta. 
 
-Tamén podes querer atopar algúns titoriais dedicados a comezar con determinados tipos de ferramentas. Algún bos sitios para encetar[Trucos CSS](https://css-tricks.com/), [Dev](https://dev.to/), [freeCodeCamp](https://www.freecodecamp.org/), e [Revista Smashing](https://www.smashingmagazine.com/), xa que están adaptados á industria do desenvolvemento web.
+Tamén podes querer atopar algúns titoriais dedicados a comezar con determinados tipos de ferramentas. Algún bos sitios para encetar[CSS Tricks](https://css-tricks.com/), [Dev.to](https://dev.to/), [freeCodeCamp](https://www.freecodecamp.org/), e [Revista Smashing](https://www.smashingmagazine.com/), xa que están adaptados á industria do desenvolvemento web.
 
 Seguramente probarás diferentes ferramentas mentres buscas as máis axeitadas para ti. Só probándoas saberás se teñen sentido, se están ben documentadas e teñen un soporte preocupado por mellorar a ferramenta; e ante todo  se fan o que queres que fagan. 
 
@@ -147,3 +147,5 @@ Isto só acaba de encetar. E está é só unha visión ampla e a ollo de paxaro 
 
 
 OUT 2021
+
+_**ref:**_  https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Overview
