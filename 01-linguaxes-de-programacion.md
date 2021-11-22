@@ -87,7 +87,7 @@ Todas as instrucións expresadas nunha aplicación ou programa se inclúen para 
 
  ## Ferramentas
 
-Unha **entorna de desenvolvemento** é un conxunto de ferramentas que un programador usa para escribir, probar, producir ou publicar programas de todo tipo. Segundo os intereses específicos, unha entorna pode modificarse ao gusto do desenvolvedor e adaptarse a diferentes fluxos de traballo; p.ex.  cando se emprega unha ou outra linguaxe de programación. 
+Unha **entorna de desenvolvemento** (IDE) é un conxunto de ferramentas que un programador usa para escribir, probar, producir ou publicar programas de todo tipo. Segundo os intereses específicos, unha entorna pode modificarse ao gusto do desenvolvedor e adaptarse a diferentes fluxos de traballo; p.ex.  cando se emprega unha ou outra linguaxe de programación. 
 
 Os entornas de desenvolvemento son tan únicas coma os desenvolvedores que os empregan.
 
