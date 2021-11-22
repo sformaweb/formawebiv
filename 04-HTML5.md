@@ -239,10 +239,10 @@ Para engadir un elemento canvas indicando o seu id, largo e alto faremos:
 
 ```javascript
 <script type="text/javascript">
-var c=document.getElementById("areadebuxo");
-var cxt=c.getContext("2d");
-cxt.fillStyle="#FF0000";
-cxt.fillRect(0,0,150,75);
+	var c=document.getElementById("areadebuxo");
+	var cxt=c.getContext("2d");
+	cxt.fillStyle="#FF0000";
+	cxt.fillRect(0,0,150,75);
 </script>
 ```
 
