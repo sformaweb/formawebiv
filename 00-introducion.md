@@ -47,7 +47,7 @@ Avanza agora aos pasos 7, 8 e/ou 9. Agora as cousas empézanse a poñer máis in
 
 Dependendo das túas preferencias despois de completar o paso 7 
 
-- podes saltar ao paso 9 se o teu é o desenvolvemento front-end, as aventuras UI/UX ou os avances en usabilidade e accesibilidade. Vas camiño de converterte nun *desenvolvedor ui/ux* experto.
+- podes saltar ao paso 9 se o teu é o desenvolvemento front-end, as aventuras UI/UX (User Interface y User Experience ) ou os avances en usabilidade e accesibilidade. Vas camiño de converterte nun *desenvolvedor ui/ux* experto.
 - se o teu é perseguir unicornios e xa te ves como *desenvolvedor fullstack*, non o dubides vai directamente ao paso 10.
 - se non che chama moito a ventura e prefires transitar por unha carreteira asfaltada - inda que teña máis dalgunha fochanca- continua co paso 8. Aquí tes dabondo para unha boa tempada coma webmaster - mantendo portais e sitios corporativos-, desenvolvendo recursos - complementos, temas,..- ou xerando contidos - deseñador web -; ou especializándote nalguna das potencialidades da plataforma - SEO/SEM, e-commerce, grow-hacking, seguridade,...-
 
