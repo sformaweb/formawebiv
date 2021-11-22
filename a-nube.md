@@ -4,7 +4,6 @@
 
 - Describir os conceptos básicos da informática na nube.
 - Determinar a solución axeitada para as necesidades empresariais.
-- ~~Diferenciar entre os distintos métodos para crear unha subscrición de Azure.~~
 
 ## Requisitos previos
 
