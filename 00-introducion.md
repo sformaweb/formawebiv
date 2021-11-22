@@ -49,7 +49,7 @@ Dependendo das túas preferencias despois de completar o paso 7
 
 - podes saltar ao paso 9 se o teu é o desenvolvemento front-end, as aventuras UI/UX (User Interface y User Experience ) ou os avances en usabilidade e accesibilidade. Vas camiño de converterte nun *desenvolvedor ui/ux* experto.
 - se o teu é perseguir unicornios e xa te ves como *desenvolvedor fullstack*, non o dubides vai directamente ao paso 10.
-- se non che chama moito a ventura e prefires transitar por unha carreteira asfaltada - inda que teña máis dalgunha fochanca- continua co paso 8. Aquí tes dabondo para unha boa tempada coma webmaster - mantendo portais e sitios corporativos-, desenvolvendo recursos - complementos, temas,..- ou xerando contidos - deseñador web -; ou especializándote nalguna das potencialidades da plataforma - SEO/SEM, e-commerce, grow-hacking, seguridade,...-
+- se non che chama moito a ventura e prefires transitar por unha carreteira asfaltada - inda que teña máis dalgunha fochanca- continua co paso 8. Aquí tes dabondo para unha boa tempada coma webmaster - mantendo portais e sitios corporativos-, desenvolvendo recursos - complementos, temas,..- ou xerando contidos - deseñador web -; ou especializándote nalguna das potencialidades da plataforma - SEO/SEM, e-commerce, growth-hacking (las técnicas de crecimiento acelerado engloban un conjunto de técnicas utilizadas en mercadotecnia con objeto de adquirir el mayor número de usuarios o clientes al coste más bajo y en el plazo más corto posible.), seguridade,...-
 
 O certo é que aínda que completes o percorrido e fagas un a un tódolos pasos, cada pouco deberas estar atento e interesarte polos cambios que se están a producir a diario. Aprende algunha cousa nova cada día. E comparte a información.
 
