@@ -14,7 +14,7 @@ Ademais, esta lección presentará a idea dun [peche de JavaScript](https://deve
 
 > Os peches de JavaScript son un tema amplo e complexo. Un peche consiste nunha función interna e unha función externa construídas de forma que lle permitan o acceso da función interna ao ámbito da función externa. Para obter máis información sobre como funciona isto, visita a súa [extensa documentación](https://developer.mozilla.org/docs/Web/JavaScript/Closures) .
 
-Pensa no DOM coma unha árbore, que representa todas as formas en que se pode manipular un documento de páxina web. Escribíronse varias API (Interfaces de programas de aplicacións) para que os programadores, utilizando a linguaxe de programación que prefiran, poidan acceder ao DOM e editalo, cambialo, reorganizalo e xestionalo doutro xeito.
+Pensa no DOM coma unha árbore, que representa todas as formas en que se pode manipular un documento de páxina web. Escribíronse varias API (Interfaces de programación de aplicacións) para que os programadores, utilizando a linguaxe de programación que prefiran, poidan acceder ao DOM e editalo, cambialo, reorganizalo e xestionalo doutro xeito.
 
 [![Representación da árbore DOM](https://github.com/microsoft/Web-Dev-For-Beginners/raw/main/3-terrarium/3-intro-to-DOM-and-closures/images/dom-tree.png)](https://github.com/microsoft/Web-Dev-For-Beginners/blob/main/3-terrarium/3-intro-to-DOM-and-closures/images/dom-tree.png)
 
