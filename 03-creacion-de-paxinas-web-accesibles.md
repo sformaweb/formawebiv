@@ -355,6 +355,8 @@ Máis información: [interactiveaccessibility](https://interactiveaccessibility.
 
 [Accesibilidad Web - Universitat d'Alacant](http://accesibilidadweb.dlsi.ua.es/?menu=pautas-accesibilidad-contenido-web)
 
+[Accesibilidade segundo Google](https://developers.google.com/web/fundamentals/accessibility)
+
 
 Podes tomar esta lección en [Microsoft Learn](https://docs.microsoft.com/learn/modules/web-development-101/accessibility?WT.mc_id=academic-13441-cxa)
 
