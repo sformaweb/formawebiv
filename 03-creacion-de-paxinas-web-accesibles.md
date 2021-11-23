@@ -96,7 +96,7 @@ Proba Lighthouse no explorador. Nas capturas de pantalla seguintes úsase Edge, 
 
 9. Para probar outras páxinas, selecciona Clear all (Borrar todo) en Lighthouse, vai a outra páxina e, a continuación, selecciona Generate report (Xerar informe).
 
-![Captura de pantalla da sección de URL de Lighthouse, có botón para borrar todos os elementos resaltado.](C:\Users\User\Documents\GitHub\formawebiv\assets\lighthouse-clear.png)
+![Captura de pantalla da sección de URL de Lighthouse, có botón para borrar todos os elementos resaltado.](./assets/lighthouse-clear.png)
 
 Xa coñeces Lighthouse, e a información sobre accesibilidade que pode proporcionar. Emprega agora a ferramenta nos teus proxectos para mellorar a accesibilidade dos mesmos.
 
@@ -345,9 +345,20 @@ A mellor maneira de entender como facer que as páxinas sexan accesibles e o imp
 
 Desprázate por un par de páxinas mediante un lector de pantalla. Abre un sitio web que teña un formulario e use só o teclado para completalo. Esta actividade daráche unha idea do que algunos usuarios experimentan a diario al usar la Web y la importancia de garantizar que las páginas sean accesibles.
 
+![Fai a túa web accesible](./assets/make-compliant-website.png)
+
+
+
 Máis información: [interactiveaccessibility](https://interactiveaccessibility.com/blog/how-write-user-stories-accessibility-requirements)
 
+[Fai a túa web accesible](https://www.webfx.com/blog/marketing/do-websites-have-to-be-ada-compliant/)
+
+[Accesibilidad Web - Universitat d'Alacant](http://accesibilidadweb.dlsi.ua.es/?menu=pautas-accesibilidad-contenido-web)
+
+
 Podes tomar esta lección en [Microsoft Learn](https://docs.microsoft.com/learn/modules/web-development-101/accessibility?WT.mc_id=academic-13441-cxa)
+
+
 
 OUT 2021
 Revisión Nov 2021
