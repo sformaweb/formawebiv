@@ -116,7 +116,7 @@ A etiqueta input ten novos tipos de atributos para xestionar mellor a entrada de
 
 ### HTML5 video
 
-O HTML5 proporciona un estándar que permite amosar vídeo sen recorrer a complementos ou complexos scripts. Ata agora non había un estándar para amosar vídeos nunha páxina web.  Hoxe en día a maior parte dos vídeos amósanse empregando plugins (como  Flash), sen embargo non todos os navegadores teñen os mesmos plugins.
+O HTML5 proporciona un estándar que permite amosar vídeo sen recorrer a complementos ou complexos scripts. Ata agora non había un estándar para amosar vídeos nunha páxina web.  Hoxe en día a maior parte dos vídeos amosábanse empregando plugins (como no seu día Flash), sen embargo non todos os navegadores usan os mesmos plugins.
 
 **Formatos de vídeo**
 
