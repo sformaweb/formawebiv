@@ -23,10 +23,6 @@ Neste módulo:
 
 # Que é GitHub?
 
-Completado100 puntos de experiencia
-
-- 8 minutos
-
 Aquí, discutimos as principais funcións de GitHub que usas a diario para xestionar e contribuír a proxectos de software.
 
 ## O fluxo de GitHub

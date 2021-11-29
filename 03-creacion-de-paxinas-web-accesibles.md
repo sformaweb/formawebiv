@@ -333,9 +333,7 @@ Estamos codificando para que a información sexa accesible ás persoas que usan 
     - [Listas de verificación de exemplo](http://webaim.org/standards/wcag/checklist): lista de verificación [WebAIM](http://webaim.org/standards/wcag/checklist) e [lista de verificación do proxecto A11y](http://a11yproject.com/checklist.html)
 - Fai unha [declaración de accesibilidade como parte do teu modelo de confirmación de código](https://robots.thoughtbot.com/better-commit-messages-with-a-gitmessage-template).  
 - Fai que as [probas](https://accessibility.umn.edu/node/296) básicas de [accesibilidade](https://accessibility.umn.edu/node/296) formen parte do proceso de garantía de calidade ou de aceptación do usuario.
-- Fai da accesibilidade un requisito creando unha [historia de usuario](http://www.interactiveaccessibility.com/blog/how-write-user-stories-accessibility-requirements) para cada proxecto.
-
-​	Desafío
+- Fai da accesibilidade un requisito creando unha [historia de usuario](http://www.interactiveaccessibility.com/blog/how-write-user-stories-accessibility-requirements) para cada proxecto.xº
 
 
 

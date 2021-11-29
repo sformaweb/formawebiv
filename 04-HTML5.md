@@ -45,25 +45,25 @@ O cometido destas novas etiquetas é tamén formular unha linguaxe máis semanti
 
 | Etiqueta         | Descrición                                                   |
 | ---------------- | ------------------------------------------------------------ |
-| **<article>**    | Para contido externo como novas dun artigo, blogue, forum ou calquera outro tipo de contido externo. |
-| **<command>**    | Un botón, un radiobutton ou un checkbox.                     |
-| **<details>**    | Para describir detalles sobre o documento, ou partes dun documento. |
-| **<summary>**    | Unha lenda ou sumario dentro dos detalles do elemento.       |
-| **<figure>**     | Para agrupar unha sección de contido autónomo, podería ser un video. |
-| **<figcaption>** | A lenda da sección figure.                                   |
-| **<footer>**     | Para indicar un pe dun documento. Podería incluír o nome do autor, a data do documento, información de contacto e copyright. |
-| **<header>**     | Para introducir un documento ou sección. Podería incluír a navegación. |
-| **<hgroup>**     | Para indicar unha sección de cabeceiras, usando h1 ata h6, onde a  máis grande é a parte principal da sección e as outras son  subcabeceiras. |
-| **<mark>**       | Para resaltar texto.                                         |
-| **<meter>**      | Para medir, usado soamente se se coñecen os valores máximo e mínimo. |
-| **<nav>**        | Para unha sección de navegación.                             |
-| **<progress>**   | O estado dun traballo en progreso.                           |
-| **<ruby>**       | Para anotacións ruby (notas chinesas ou outros caracteres).  |
-| **<rt>**         | Para explicar a anotación ruby.                              |
-| **<rp>**         | Para amosar naqueles navegadores que non soportan o elemento ruby. |
-| **<section>**    | Para a sección nun documento. Tales como capítulos, cabeceiras, pes ou outras seccións do documento. |
-| **<time>**       | Para definir unha hora, data ou ambas.                       |
-| **<wbr>**        | Para definir un cambio de liña ou continuación de palabra. (word break). |
+| **`<article>`**    | Para contido externo como novas dun artigo, blogue, forum ou calquera outro tipo de contido externo. |
+| **`<command>`**    | Un botón, un radiobutton ou un checkbox.                     |
+| **`<details>`**    | Para describir detalles sobre o documento, ou partes dun documento. |
+| **`<summary>`**    | Unha lenda ou sumario dentro dos detalles do elemento.       |
+| **`<figure>`**     | Para agrupar unha sección de contido autónomo, podería ser un video. |
+| **`<figcaption>`** | A lenda da sección figure.                                   |
+| **`<footer>`**     | Para indicar un pe dun documento. Podería incluír o nome do autor, a data do documento, información de contacto e copyright. |
+| **`<header>`**     | Para introducir un documento ou sección. Podería incluír a navegación. |
+| **`<hgroup>`**     | Para indicar unha sección de cabeceiras, usando h1 ata h6, onde a  máis grande é a parte principal da sección e as outras son  subcabeceiras. |
+| **`<mark>`**       | Para resaltar texto.                                         |
+| **`<meter>`**      | Para medir, usado soamente se se coñecen os valores máximo e mínimo. |
+| **`<nav>`**        | Para unha sección de navegación.                             |
+| **`<progress>`**   | O estado dun traballo en progreso.                           |
+| **`<ruby>`**       | Para anotacións ruby (notas chinesas ou outros caracteres).  |
+| **`<rt>`**         | Para explicar a anotación ruby.                              |
+| **`<rp>`**         | Para amosar naqueles navegadores que non soportan o elemento ruby. |
+| **`<section>`**    | Para a sección nun documento. Tales como capítulos, cabeceiras, pes ou outras seccións do documento. |
+| **`<time>`**       | Para definir unha hora, data ou ambas.                       |
+| **`<wbr>`**        | Para definir un cambio de liña ou continuación de palabra. (word break). |
 
 ### Novos elementos multimedia
 
@@ -71,10 +71,10 @@ HTML5 proporciona un novo estándar para o contido multimedia:
 
 | Etiqueta     | Descrición                                                   |
 | ------------ | ------------------------------------------------------------ |
-| **<audio>**  | Para contido multimedia, sons, música ou outros audio streams. |
-| **<video>**  | Para contido de video, tales como clips de películas ou outros video streams. |
-| **<source>** | Para recursos multimedia definidos dentro dos elementos de  video ou audio. |
-| **<embed>**  | Para contido embebido, tales como un plug-in.                |
+| **`<audio>`**  | Para contido multimedia, sons, música ou outros audio streams. |
+| **`<video>`**  | Para contido de video, tales como clips de películas ou outros video streams. |
+| **`<source>`** | Para recursos multimedia definidos dentro dos elementos de  video ou audio. |
+| **`<embed>`**  | Para contido embebido, tales como un plug-in.                |
 
 ### Elemento canvas
 
@@ -82,7 +82,7 @@ O elemento canvas emprega Javascript para facer debuxos nunha páxina web.
 
 | Etiqueta     | Descrición                     |
 | ------------ | ------------------------------ |
-| **<canvas>** | Para facer debuxos cun script. |
+| **`<canvas>`** | Para facer debuxos cun script. |
 
 ### Novos elementos de formulario
 
@@ -90,9 +90,9 @@ HTML5 ofrece máis elementos de formulario con máis funcionalidade:
 
 | Etiqueta       | Descrición                                                   |
 | -------------- | ------------------------------------------------------------ |
-| **<datalist>** | Unha lista de opcións para valores input.                    |
-| **<keygen>**   | Xenera claves para autenticar a usuarios.                    |
-| **<output>**   | Para diferentes tipos de saída tales como a saída que produce un script. |
+| **`<datalist>`** | Unha lista de opcións para valores input.                    |
+| **`<keygen>`**   | Xenera claves para autenticar a usuarios.                    |
+| **`<output>`**   | Para diferentes tipos de saída tales como a saída que produce un script. |
 
 ### Novos tipos de atributos para input
 
@@ -100,23 +100,23 @@ A etiqueta input ten novos tipos de atributos para xestionar mellor a entrada de
 
 | Etiqueta             | Descrición                                                   |
 | -------------------- | ------------------------------------------------------------ |
-| **<tel>**            | O tipo de dato introducido é un número de teléfono.          |
-| **<search>**         | O tipo de dato introducido é un campo de busca.              |
-| **<url>**            | O tipo de dato introducido é unha URL.                       |
-| **<email>**          | O tipo de dato introducido é unha ou máis direccións de correo electrónico. |
-| **<datetime>**       | O tipo de dato introducido é unha data e/ou hora.            |
-| **<date>**           | O tipo de dato introducido é unha data.                      |
-| **<month>**          | O tipo de dato introducido é un mes.                         |
-| **<week>**           | O tipo de dato introducido é unha semana.                    |
-| **<time>**           | O tipo de dato introducido é de tipo tempo.                  |
-| **<datetime-local>** | O tipo de dato introducido é de tipo data/tempo.             |
-| **<number>**         | O tipo de dato introducido é un número.                      |
-| **<range>**          | O tipo de dato introducido é un número dentro do rango indicado. |
-| **<color>**          | O tipo de dato introducido é unha cor en formato hexadecimal, como #FF8811 |
+| **`<tel>`**            | O tipo de dato introducido é un número de teléfono.          |
+| **`<search>`**         | O tipo de dato introducido é un campo de busca.              |
+| **`<url>`**            | O tipo de dato introducido é unha URL.                       |
+| **`<email>`**          | O tipo de dato introducido é unha ou máis direccións de correo electrónico. |
+| **`<datetime>`**       | O tipo de dato introducido é unha data e/ou hora.            |
+| **`<date>`**           | O tipo de dato introducido é unha data.                      |
+| **`<month>`**          | O tipo de dato introducido é un mes.                         |
+| **`<week>`**           | O tipo de dato introducido é unha semana.                    |
+| **`<time>`**           | O tipo de dato introducido é de tipo tempo.                  |
+| **`<datetime-local>`** | O tipo de dato introducido é de tipo data/tempo.             |
+| **`<number>`**         | O tipo de dato introducido é un número.                      |
+| **`<range>`**          | O tipo de dato introducido é un número dentro do rango indicado. |
+| **`<color>`**          | O tipo de dato introducido é unha cor en formato hexadecimal, como #FF8811 |
 
 ### HTML5 video
 
-O HTML5 proporciona un estándar que permite amosar vídeo sen recorrer a complementos ou complexos scripts. Ata agora non había un estándar para amosar vídeos nunha páxina web.  Hoxe en día a maior parte dos vídeos amósanse empregando plugins (como  Flash), sen embargo non todos os navegadores teñen os mesmos plugins.
+O HTML5 proporciona un estándar que permite amosar vídeo sen recorrer a complementos ou complexos scripts. Ata agora non había un estándar para amosar vídeos nunha páxina web.  Hoxe en día a maior parte dos vídeos amosábanse empregando plugins (como no seu día Flash), sen embargo non todos os navegadores usan os mesmos plugins.
 
 **Formatos de vídeo**
 
@@ -161,13 +161,13 @@ O seu navegador non soporta a etiqueta video de HTML5.
 
 | Atributo       | Valor    | Descrición                                                   |
 | -------------- | -------- | ------------------------------------------------------------ |
-| **<autoplay>** | autoplay | Especifica que o vídeo comezará automaticamente tan pronto estea dispoñible. |
-| **<controls>** | controls | Especifica que se amosarán os controis do vídeo (play, pause, stop..). |
-| **<height>**   | *pixels* | Especifica a altura en píxels do reprodutor de vídeo.        |
-| **<loop>**     | loop     | Especifica que o vídeo estará sempre reproducíndose. Cando remate volverá a comezar automaticamente. |
-| **<preload>**  | preload  | Especifica que o vídeo comezará a precargarse cando se cargue a  páxina web. Si a opción autoplay está presente esta opción será  ignorada. |
-| **<src>**      | *url*    | Especifica a URL do vídeo a reproducir.                      |
-| **<width>**    | *pixels* | Especifica o largo en píxels do reprodutor de vídeo.         |
+| **`<autoplay>`** | autoplay | Especifica que o vídeo comezará automaticamente tan pronto estea dispoñible. |
+| **`<controls>`** | controls | Especifica que se amosarán os controis do vídeo (play, pause, stop..). |
+| **`<height>`**   | *pixels* | Especifica a altura en píxels do reprodutor de vídeo.        |
+| **`<loop>`**     | loop     | Especifica que o vídeo estará sempre reproducíndose. Cando remate volverá a comezar automaticamente. |
+| **`<preload>`**  | preload  | Especifica que o vídeo comezará a precargarse cando se cargue a  páxina web. Si a opción autoplay está presente esta opción será  ignorada. |
+| **`<src>`**      | *url*    | Especifica a URL do vídeo a reproducir.                      |
+| **`<width>`**    | *pixels* | Especifica o largo en píxels do reprodutor de vídeo.         |
 
 ### HTML5 audio
 
@@ -217,11 +217,11 @@ O seu navegador non soporta audio en HTML 5.
 
 | Atributo       | Valor    | Descrición                                                   |
 | -------------- | -------- | ------------------------------------------------------------ |
-| **<autoplay>** | autoplay | Especifica que o audio comezará automaticamente tan pronto estea dispoñible. |
-| **<controls>** | controls | Especifica que se amosarán os controis do audio (play, pause, stop..). |
-| **<loop>**     | loop     | Especifica que o audio estará sempre reproducíndose. Cando remate volverá a comezar automaticamente. |
-| **<preload>**  | preload  | Especifica que o audio comezará a precargarse cando se cargue a  páxina web. Si a opción autoplay está presente esta opción será  ignorada. |
-| **<src>**      | *url*    | Especifica a URL do audio a reproducir.                      |
+| **`<autoplay>`** | autoplay | Especifica que o audio comezará automaticamente tan pronto estea dispoñible. |
+| **`<controls>`** | controls | Especifica que se amosarán os controis do audio (play, pause, stop..). |
+| **`<loop>`**     | loop     | Especifica que o audio estará sempre reproducíndose. Cando remate volverá a comezar automaticamente. |
+| **`<preload>`**  | preload  | Especifica que o audio comezará a precargarse cando se cargue a  páxina web. Si a opción autoplay está presente esta opción será  ignorada. |
+| **`<src>`**      | *url*    | Especifica a URL do audio a reproducir.                      |
 
 ### HTML5 canvas
 
@@ -377,7 +377,7 @@ http://diveintohtml5.org/
 
 ## Plantilla para un arquivo novo en HTML5
 
-```
+```html
 <!DOCTYPE html>
 <html lang="es">
 	<head>
