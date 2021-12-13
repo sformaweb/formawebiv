@@ -30,9 +30,11 @@ Accept: text/html
 User-Agent: Mozilla/5.0 (Macintosh)
 ```
 
-Este sinxelo mensaxe comunica todo o necesario sobre que recursos solicita o cliente exactamente. A primeira líña dunha petición HTTP é a máis importante e conten dúas cosas: la URI y el método HTTP.
+Este sinxelo mensaxe comunica todo o necesario sobre que recursos solicita o cliente exactamente. 
+A primeira líña dunha petición HTTP é a máis importante e conten dúas cosas: la URI y el método HTTP.
 
-A URI (por exemplo, `/`, `/contacto`, etc.) é a dirección ou localizador que identifica univocamente ao recurso que solicita o cliente. O método HTTP (por exemplo, `GET`) define o que queres facer có recurso. Os métodos HTTP son os *verbos* da petición e definen as poucas formas en que podes actuar sobre o recurso:
+A URI (por exemplo, `/`, `/contacto`, etc.) é a dirección ou localizador que identifica univocamente ao recurso que solicita o cliente. 
+O método HTTP (por exemplo, `GET`) define o que queres facer có recurso. Os métodos HTTP son os *verbos* da petición e definen as poucas formas en que podes actuar sobre o recurso:
 
 | Método   | Acción                              |
 | -------- | ----------------------------------- |
@@ -55,15 +57,15 @@ A demais da primeira liña, unha petición HTTP conten tamén outras liñas de i
 
 Unha vez que un servidor recibiu a petición, sabe exactamente que recursos necesita o cliente (a través da URI) e o que o cliente quere facer con ese recurso (a través do método). Por exemplo, no caso dunha petición `GET`, o servidor prepara o recurso e o devolve nunha resposta HTTP. Considera a resposta do servidor web do sitio `xkcd`:
 
-<!--```mermaid
+<!--mermaid
 sequenceDiagram
     meu navegador->>+xkcd server: Boas! Podo ver o novo comic de xkcd?
     xkcd server-->>-meu navegador: Claro que si! Aqui tes a páxina web!
-```-->
+-->
 
 
 
-![Respuesta HTTP para obtener la tira cómica más reciente de Xkcd](C:\Users\User\Documents\GitHub\formawebiv\assets\http-xkcd-16393403273083.png)
+![Respuesta HTTP para obtener la tira cómica más reciente de Xkcd](./assets/http-xkcd-16393403273083.png)
 
 **Figura 1.3** Resposta HTTP para obter a tira cómica máis recente de Xkcd
 
