@@ -5,7 +5,7 @@
 HTTP ("HyperText Transfer Protocol") é unha linguaxe baseada en texto que permite a dúas máquinas comunicarse entre sí. E non hai máis! 
 Unha conversación é a que por exemplo se produce cando queres acceder á última tira cómica publicada polo sitio [xkcd](https://xkcd.com/):
 
-![Flujo HTTP para obtener la tira cómica más reciente de Xkcd](C:\Users\User\Documents\GitHub\formawebiv\assets\http-xkcd.png)
+![Flujo HTTP para obtener la tira cómica más reciente de Xkcd](./assets/http-xkcd.png)
 
 **Figura 1.1** Fluxo HTTP para obter a tira cómica máis recente de Xkcd.
 
