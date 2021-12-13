@@ -45,3 +45,11 @@ Este tema contén os seguintes módulos. Debería comezar co primeiro módulo e,
 - [Configurando correctamente os tipos MIME do servidor](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Configuring_server_MIME_types)
 
   Configurar o seu servidor para enviar os [tipos MIME](https://developer.mozilla.org/en-US/docs/Glossary/MIME_type) correctos (tamén coñecidos como tipos de medios ou tipos de contido) aos navegadores é importante para que os navegadores poidan procesar e mostrar correctamente o contido. Tamén é importante evitar que o contido malicioso se faga pasar por contido benigno.
+
+
+
+## [Arquitectura cliente/servidor](https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data#clientserver_architecture)
+
+Na forma máis básica, a web usa unha arquitectura cliente/servidor que se pode resumir do seguinte xeito: un cliente (normalmente un navegador web) envía unha solicitude a un servidor (a maioría das veces un servidor web como [Apache](https://httpd.apache.org/), [Nginx](https://nginx.org/), [IIS](https://www.iis.net/), [Tomcat](https://tomcat.apache.org/), etc.), utilizando o [protocolo HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP) . O servidor responde á solicitude usando o mesmo protocolo.
+
+![Un esquema básico da arquitectura cliente/servidor web](C:\Users\User\Documents\GitHub\formawebiv\assets\client-server.png)

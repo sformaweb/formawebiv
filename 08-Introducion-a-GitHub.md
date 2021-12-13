@@ -31,7 +31,7 @@ Ademais de ofrecer unha plataforma para o desenvolvemento de software colaborati
 
 ## Git e GitHub
 
-Mentres traballas con **Git** e **GitHub** , podes preguntarche a diferenza entre ambos.
+Mentres traballas con **Git** e **GitHub** , podes preguntarte cal é a diferenza entre ambos.
 
 **Git** é un sistema de control de versións distribuído (DVCS) que permite que varios desenvolvedores ou outros colaboradores traballen nun proxecto. Proporciona unha forma de traballar cunha ou máis sucursais locais e envialas a un repositorio remoto. Git é responsable de todo o relacionado con GitHub que ocorre localmente no teu ordenador. As funcións principais proporcionadas por Git inclúen:
 

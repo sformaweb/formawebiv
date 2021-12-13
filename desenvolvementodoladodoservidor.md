@@ -17,9 +17,9 @@ A diferencia sustancial entre o cliente e o servidor é o software con que se fo
 ### Modelo de desenvolvemento de 3 capas
 
 * **Capa de presentación**: É a capa onde a aplicación se expón as persoas. Básicamente é a capa gráfica ou GUI (Graphical User Interface, Interfaz Gráfica de Usuario). No caso dunha aplicación web sería o código HTML que se carga directamente no navegador web. Esta capa se executa directamente no equipo do cliente.
-    
+  
 * **Capa de negocio**:  É a capa intermedia onde se leva a cabo toda a lóxica da aplicación. Esta capa, tras realizar todos os cálculos e/ou operaciónss sobre os datos, xera o código HTML que será presentado as persoas na capa anterior(seguinte?). Sempre se executará no lado do servidor. 
-    
+  
 * **Capa de datos**: É a capa que almacena os datos. Básicamente, en condiciones normais, fai referencia ao [SGBD](https://es.wikipedia.org/wiki/Sistema_de_gesti%C3%B3n_de_bases_de_datos) que é o encargado de almacenar os datos. Dependendo da arquitectura da aplicación, esta capa  e a capa de negocio se poden atopar fisicamente no mesmo equipo, inda que por razóns de rendemento tamén é posible que se teñan que separar. A capa de datos sirve toda a información necesaria á capa de negocio para que está complete as súas operacións.
 
 Imaxina unha tenda online:
@@ -29,14 +29,14 @@ Imaxina unha tenda online:
 
 Se ollamos un caso concreto con software e tecnoloxías xa definidos, un modelo de 3 capas podría ser o seguinte:
 
-![metodo3capas.png](assets/metodo3capas.png)![metodo3capas.png](assets/metodo3capas.png)
+![metodo3capas.png](assets/metodo3capas.png)
 
 Modelo de desenvolvemento de 3 capas segundo o software empregado en cada capa:
 
 * **Un navegador web**: Firefox, Edge, Opera, Safari ou Google Chrome son as aplicacións que se ocupan da capa de presentación. Son a capa de representación.
-    
+  
 * **[Apache](https://httpd.apache.org/) + PHP / IIS + ASP**: Un [servidor web](https://tecnogaming.com/web-servers-nginx-vs-apache-vs-lighttpd/) fornecido da linguaxe de programación axeitada permite xestionar a capa de negocio. Hai diversas opcións. Ao software servidor hai que provelo dunha linguaxe de guión que permita desenvolver a lóxica da aplicación.
-    
+  
 * **MySQL/PostgreSQL**: Para a xestión da capa de datos se emprega algún software ou sistema de xestión de bases de datos, como poden ser _MySQL_ ou _PostgreSQL_
 
 
@@ -49,9 +49,9 @@ Modelo de desenvolvemento de 3 capas segundo o software empregado en cada capa:
 Segundo en que lado se ubican as tecnoloxías e para qué son empregadas podemos definir 3 perfiles diferenciados no ámbito do desenvolvemento web:
 
 * **Front-end**: É a parte do desenvolvemento que se encarga do deseño e a maquetación da aplicación web utilizando tecnoloxías coma HTML, CSS e Javascript (e os seus diferentes frameworks). Ocupándose do deseño responsivo, a codificación semántica e a accesibilidade e usabilidade do sitio. O coidado na codificación nesta parte do desenvolvemento tamén pode contribuir ao posicionamento en buscadores. *SEO orgánico*
-    
+  
 * **Back-end**: É a parte do desenvolvemento que se encarga do lado servidor utilizando tecnologías como PHP, JS ou Python. Tamén se encarga da administración do servidor de aplicacións e das bases de datos.
-    
+  
 * **Full stack**: Este perfil engloba os dous anteriores. Neste caso o desenvolvedor pode que non sexa un experto nunha tecnoloxía concreta, pero ten amplos coñecementos de conxunto e pode ser capaz de participar en cualquiera de las partes.
 
 ## Servidores web e servidores de aplicacións
@@ -91,7 +91,7 @@ Sobre estas 3 tecnologías se han creado frameworks de desarrollo web que permit
 
 **Frameworks y librerías JavaScript:** con el fin de mejorar el desarrollo de JavaScript en proyectos grandes, han aparecido frameworks y librerías como [Angular](https://angular.io/), [Vuejs](https://vuejs.org/) y [React](https://reactjs.org/). El ecosistema **JavaScript** crece cada año y todos los días se crean nuevas librerías. Una buena referencia para mantenerse actualizados en estos avances [es esta guía](https://stateofjs.com/). También surgen herramientas para poder testear webs basadas en estos frameworks, algunos ejemplos son [Jest](https://jestjs.io/), [Protactor](https://www.protractortest.org/), [Mocha](https://mochajs.org/), [Karma](http://karma-runner.github.io/), [Enzyme](https://airbnb.io/enzyme/).
 
-**Frameworks y librerías CSS**: al igual que ocurre con **JavaScript**, tambien surge la aparición de nuevas librerías y frameworks para **CSS** que permiten gestionar mejor su desarrollo en grandes aplicaciones. Los más conocidos y utilizados son **Bootstrap y Material Design, **puedes ver más en nuestra entrada de [diseño web](https://www.mediaroomsolutions.es/tendencias-web). También aparecen los denominados **preprocesadores**, programas que permiten extender las funciones CSS con una sintaxis única que después será transformada al CSS original. Algunos ejemplos son: [Sass](https://sass-lang.com/), [Less](http://lesscss.org/), [Stylus,](http://stylus-lang.com/) y [PostCSS](https://postcss.org/).
+**Frameworks y librerías CSS**: al igual que ocurre con **JavaScript**, tambien surge la aparición de nuevas librerías y frameworks para **CSS** que permiten gestionar mejor su desarrollo en grandes aplicaciones. Los más conocidos y utilizados son **Bootstrap y Material Design, **puedes ver más en nuestra entrada de [diseño web](https://www.mediaroomsolutions.es/tendencias-web). También aparecen los denominados **preprocesadores**, programas que permiten extender las funciones CSS con una sintaxis única que después será transformada al CSS original. Algúns ejemplos son: [Sass](https://sass-lang.com/), [Less](http://lesscss.org/), [Stylus,](http://stylus-lang.com/) y [PostCSS](https://postcss.org/).
 
 **Gestores de paquetes:** con el fin de gestionar librerías y plugins los desarrolladores utilizan gestores de paquetes, siendo los más extendidos [npm](https://www.npmjs.com/) y [yarn](https://yarnpkg.com/).
 
@@ -178,4 +178,4 @@ Para completar a vision do desenvolvemento do lado do servidor se recomenda ler:
 
 
 
-ref: https://servidor.codeandcoke.com/apuntes:introduccion
+ref: https://servidor.codeandcoke.com/apuntes:introduccion 
