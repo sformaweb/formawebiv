@@ -14,9 +14,11 @@ Esta folla de trucos contén exemplos de código útiles e ferramentas para dese
 É unha folla de trucos contén as propiedades CSS, xeradores de sombra de texto, selector de cor e algúns fragmentos de código comúns. Dispón dunha interface gráfica para poder xerar diferentes regras co emprego do rato. Logo so hai que copiar e pegar.
 
 ## [Deseño Grid](https://grid.malven.co/)
+
 Un salvavidas para o traballo con grellas. Alo menos mentras non te afas - a min inda me costa - e poidas crear as clases de forma natural. Iso ou revisar outra vez a W3Schools.
 
 ## [FlexBox](https://flexbox.malven.co/)
+
 Outra folla de trucos baseada en propostas visuais para xerar CSS flexbox.
 
 ## [JavaScript](https://htmlcheatsheet.com/js/)
