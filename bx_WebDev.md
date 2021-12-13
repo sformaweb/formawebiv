@@ -17,7 +17,7 @@ Tódalas conversacións na web comenzan cunha **petición**. A petición é unha
 
 Bota unha ollada á primeira parte da interacción (a petición) entre un navegador e o servidor web do sitio `xkcd`:
 
-![Petición HTTP para obtener la tira cómica más reciente de Xkcd](C:\Users\User\Documents\GitHub\formawebiv\assets\http-xkcd-request.png)
+![Petición HTTP para obtener la tira cómica más reciente de Xkcd](./assets/http-xkcd-request.png)
 
 **Figura 1.2** Petición HTTP para obter a tira cómica máis recente de Xkcd
 
