@@ -39,6 +39,8 @@ A demais do mencionado, se inclúen na **definición de software de aplicación*
 
 O software de aplicación ou simplemente as aplicacións son o produto final que se ofrece ao consumidor.
 
+![clasificacion de tipos de software](./assets/clasificacion-tipos-de-software1.jpg)
+
 ## Algúns exemplos que poden encaixar para cada tipo de software
 
 ### 1. Tipos de software de programación
@@ -67,7 +69,7 @@ O software de aplicación ou simplemente as aplicacións son o produto final que
 - **software educativo**: todos aqueles produtos dixitais que teñen coma obxectivo ensinar algún tema en específico ao usuario de calquera nivel e facilitar o proceso de aprendizaxe;
 - **software de xestión**: sistema integrado por varias ferramentas para ser utilizado en tarefas relacionadas coa administración ou o cálculo numérico.
 
-
+![Software](./assets/Segunda-imagen.png)
 
 ## **Diferencias dependendo do modelo de distribución**
 
@@ -98,6 +100,10 @@ Existen [outros tipos de licencia](https://tecnologia-informatica.com/tipos-lice
 ## Conclusión
 
 Os tipos de software abarcan todas as aplicacións e recursos informáticos que fan posible desde ler un blog desde o teu móbil ou o teu computador, ata que poidas aplicar automatización nunha empresa e medir resultados de maneira inmediata.
+
+![https://picodotdev.github.io/blog-bitix/2020/12/tipos-de-arquitecturas-de-aplicaciones-de-software/images/hexagonal-architecture-1040_hua0b5dcffb997d18e89c689145ad4a077_412411_1040x0_resize_box_3.png](./assets/hexagonal-architecture-1040_hua0b5dcffb997d18e89c689145ad4a077_412411_1040x0_resize_box_3.png)
+
+Fig.: https://picodotdev.github.io/blog-bitix/2020/12/tipos-de-arquitecturas-de-aplicaciones-de-software/
 
 ---
 
