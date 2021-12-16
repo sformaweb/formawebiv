@@ -66,7 +66,7 @@ Un servidor web é unha aplicación que recibe una petición HTTP (normalmente a
 
 #### Que é un servidor de aplicacións
 
-Un servidor de aplicacións é unha aplicación que conten unha serie de servizos que son accesibles a través dunha API exposta a través de Internet. Normalmente os servidores de aplicacións proporcionan máis servizos que os servidores web. Por exemplo, no caso dos servidores de aplicacións para _Java_ ou _Python_, estes proporcionan un acceso transparente á base de datos para que o desenvolvedor se centre exclusivamente en implementar a capa de negocio. A demais, poden proporcionar tamén servizos como fail-over ou balanceo de carga.
+Un servidor de aplicacións é unha aplicación que conten unha serie de servizos que son accesibles a través dunha API exposta a través de Internet. Normalmente os servidores de aplicacións proporcionan máis servizos que os servidores web. Por exemplo, no caso dos servidores de aplicacións para _Java_ ou _Python_, estes proporcionan un acceso transparente á base de datos para que o desenvolvedor se centre exclusivamente en implementar a capa de negocio. A demais, poden proporcionar tamén servizos como fail-over ( la tolerancia a fallos o conmutación por error se refiere a la capacidad de un sistema de seguir funcionando, aún en caso de producirse algún fallo en el sistema.) ou balanceo de carga.
 
 ## **Tecnoloxías para o desenvolvemento web**
 
