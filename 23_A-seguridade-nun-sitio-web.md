@@ -43,7 +43,8 @@ O proceso de modificar os datos do usuario para que non se poidan utilizar para 
 
 - [**Falsificación de solicitudes entre sitios (CSRF)**](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security#cross-site_request_forgery_csrf)
 
-  Os ataques CSRF permiten que un usuario malintencionado execute accións utilizando as credenciais doutro usuario sen o coñecemento ou consentimento deste.
+  Os ataques CSRF permiten que un usuario malintencionado execute accións utilizando as credenciais doutro usuario sen o coñecemento ou consentimento deste. (Cross-site request forgery
+El CSRF es un tipo de exploit malicioso de un sitio web en el que comandos no autorizados son transmitidos por un usuario en el cual el sitio web confía.)
 
 - [**Outras ameazas**](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security#other_threats)
 
