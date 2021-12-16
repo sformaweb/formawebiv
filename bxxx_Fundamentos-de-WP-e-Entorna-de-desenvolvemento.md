@@ -100,7 +100,7 @@ Un contorno de desenvolvemento local constaría dos seguintes compoñentes:
   - Manexar dependencias
   - Automatización do fluxo de traballo
 
-- Node & npm
+- Node & npm (JS)
 
   - Manexo de dependencias
   - Automatización do fluxo de traballo
