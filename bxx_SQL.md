@@ -56,7 +56,7 @@ Para crear un sitio web que mostre datos dunha base de datos, necesitarás:
   - Para usar SQL e para xestionarr os datos que queres 
   - Para usar HTML/CSS e proporcionarlle estrutura e estilo visual á páxina 
 
-RDBMS é a base funcional para todos os sistemas de bases de datos modernos como MS SQL Server, IBM DB2, Oracle, MySQL ou Microsoft Access. 
+RDBMS é a base funcional para todos os sistemas de bases de datos modernos como MS SQL Server, IBM DB2, Oracle, MySQL ou Microsoft Access. (sistema de gestión de bases de datos relacionales)
 
 Os datos en RDBMS almacénanse en obxectos de base de datos chamados táboas. Unha táboa, que consta de fileiras e columnas, é unha colección de entradas de datos relacionadas. 
 
