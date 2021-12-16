@@ -73,7 +73,7 @@ Un contorno de desenvolvemento local constaría dos seguintes compoñentes:
 - Corredor de tarefas
 - Entorno de probas e depuración
 - IDE profesional
-- *Sniffers* para revisar e avisar de posibles inconsistencias e/ou problemas de codificación estándar.
+- *Sniffers* para revisar e avisar de posibles inconsistencias e/ou problemas de codificación estándar. (Sniffer, del inglés sniff: olfatear, rastrear, puede entenderse como un programa con la capacidad de observar el flujo de datos en tránsito por una red, y obtener información de éste; está diseñado para analizar los paquetes de datos que pasan por la red y no están destinados para él)
 
    
 
