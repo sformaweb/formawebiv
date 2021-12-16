@@ -50,7 +50,7 @@ Segundo en que lado se ubican as tecnoloxías e para qué son empregadas podemos
 
 * **Front-end**: É a parte do desenvolvemento que se encarga do deseño e a maquetación da aplicación web utilizando tecnoloxías coma HTML, CSS e Javascript (e os seus diferentes frameworks). Ocupándose do deseño responsivo, a codificación semántica e a accesibilidade e usabilidade do sitio. O coidado na codificación nesta parte do desenvolvemento tamén pode contribuir ao posicionamento en buscadores. *SEO orgánico*
   
-* **Back-end**: É a parte do desenvolvemento que se encarga do lado servidor utilizando tecnologías como PHP, JS ou Python. Tamén se encarga da administración do servidor de aplicacións e das bases de datos.
+* **Back-end**: É a parte do desenvolvemento que se encarga do lado servidor utilizando tecnoloxías como PHP, JS ou Python. Tamén se encarga da administración do servidor de aplicacións e das bases de datos.
   
 * **Full stack**: Este perfil engloba os dous anteriores. Neste caso o desenvolvedor pode que non sexa un experto nunha tecnoloxía concreta, pero ten amplos coñecementos de conxunto e pode ser capaz de participar en cualquiera de las partes.
 
@@ -64,38 +64,37 @@ Un servidor web é unha aplicación que recibe una petición HTTP (normalmente a
 
 #### Que é un servidor de aplicacións
 
-Un servidor de aplicacións é unha aplicación que conten unha serie de servizos que son accesibles a través dunha API exposta a través de Internet. Normalmente os servidores de aplicacións proporcionan máis servizos que os servidores web. Por exemplo, no caso dos servidores de aplicacións para _Java_ ou _Python_, estes proporcionan un acceso transparente á base de datos para que o desenvolvedor se centre exclusivamente en implementar a capa de negocio. Ademáis, poden proporcionar tamén servizos como fail-over ou balanceo de carga.
+Un servidor de aplicacións é unha aplicación que conten unha serie de servizos que son accesibles a través dunha API exposta a través de Internet. Normalmente os servidores de aplicacións proporcionan máis servizos que os servidores web. Por exemplo, no caso dos servidores de aplicacións para _Java_ ou _Python_, estes proporcionan un acceso transparente á base de datos para que o desenvolvedor se centre exclusivamente en implementar a capa de negocio. A demais, poden proporcionar tamén servizos como fail-over ou balanceo de carga.
 
+## **Tecnoloxías para o desenvolvemento web**
 
-## **Tecnologías para el desarrollo web**
+O seguinte paso é falar das diferentes linguaxes de programación que existen dirixidos ao desenvolvemento web. Pero, antes de entrar en materia, conven facer unha distinción entre a definición de **tecnoloxías** **frontend** e **tecnoloxías** **backend**.
 
-El siguiente paso es hablar de los diferentes lenguajes de programación que existen dirigidos al desarrollo web. Sin embargo, antes de entrar en materia, conviene hacer una distinción entre la definición de **tecnologías** **frontend** y **tecnologías** **backend**.
-
-Entendemos por** tecnologías frontend** al **conjunto de tecnologías que funcionan y trabajan del lado del cliente**. Por el contrario las **tecnologías backend** son a**quellas que funcionan y operan del lado de los servidores**. Actualmente algunos de los lenguajes que se pueden encontrar en cuanto a desarrollo web son los siguientes:
-
- 
-
-### **Tecnologías frontend**
+Entendemos por **tecnoloxías frontend** ao **conxunto de tecnoloxías que funcionan e traballan do lado do cliente**. Polo contrario as **tecnoloxías backend** son **aquelas que funcionan e operan do lado dos servidores**. Actualmente algunhas das linguaxes que se poden atopar para desenvolvemento web son:
 
  
 
-![Image not found: https://www.mediaroomsolutions.es/blog/wp-content/uploads/2018/12/frontend-1-1024x514.jpg](https://www.mediaroomsolutions.es/blog/wp-content/uploads/2018/12/frontend-1-1024x514.jpg "Image not found: https://www.mediaroomsolutions.es/blog/wp-content/uploads/2018/12/frontend-1-1024x514.jpg")
+### **Tecnoloxías frontend**
 
-[**HTML5**](http://w3c.github.io/html/introduction.html): Es la tecnología principal utilizada para estructurar los contenidos en la web, estandarizada por la [w3c](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium). Es un lenguaje de marcado que permite crear la estructura y elementos de una web que después serán interpretados por los navegadores.
+ ![https://www.rozpalsac.com/wp-content/uploads/2019/10/frontend-1-1024x514-1024x514.jpg](C:\Users\User\Documents\GitHub\formawebiv\assets\frontend-1-1024x514-1024x514.jpg)
 
-**CSS**: Su función es describir cómo las estructuras HTML definidas anteriormente deben representarse visualmente. HTML fue creado para describir el contenido en las páginas web, CSS define los estilos visuales que tendrá ese contenido. Combinando **HTML** y **CSS** en dos archivos separados, es posible separar el contenido y la presentación de una web de forma clara y organizada, facilitando el trabajo de los desarrolladores.
+[**HTML5**](http://w3c.github.io/html/introduction.html): É a tecnoloxía principal utilizada para estructurar os contidos na web, estandarizada pola [w3c](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium). É un linguaxe de marcado que permite crear a estructura e elementos dunha web que despois serán interpretados polos navegadores.
 
-**JavaScript**: Hoy en día es común que las webs incorporen dinamismo, permitan realizar acciones sin necesidad de refrescar la página y actualicen los datos en pantalla de forma automática y rápida. Para lograr que las webs tengan estos comportamientos se utiliza Javascript, un lenguaje empleado para aportar interactividad, reactividad ante eventos, validación de los datos en formularios, crear cookies, etc.
+**CSS**: A súa función é describir como as estruturas HTML definidas anteriormente deben representarse visualmente. HTML foi creado para describir o contido nas páxinas web, CSS define os estilos visuais que terá ese contido. Combinando **HTML** e **CSS** en dous arquivos separados, é posible separar o contido e a presentación dunha web de forma clara e organizada, facilitando o traballo dos desenvolvedores.
 
-Sobre estas 3 tecnologías se han creado frameworks de desarrollo web que permiten crear páginas web cada vez más complejas y funcionalidades que aportan cada vez más valor. Las últimas tendencias de desarrollo web en esta área son:
+**JavaScript**: É común que as webs incorporen dinamismo, permitan realizar accións sen necesidade de refrescar a páxina e actualicen os datos en pantalla de forma automática e rápida. Para lograr que as webs teñan estes comportamentos se usa Javascript, unha linguaxe empregada para aportar interactividade, reactividade ante eventos, validación dos datos en formularios, crear cookies, etc.
 
-**Frameworks y librerías JavaScript:** con el fin de mejorar el desarrollo de JavaScript en proyectos grandes, han aparecido frameworks y librerías como [Angular](https://angular.io/), [Vuejs](https://vuejs.org/) y [React](https://reactjs.org/). El ecosistema **JavaScript** crece cada año y todos los días se crean nuevas librerías. Una buena referencia para mantenerse actualizados en estos avances [es esta guía](https://stateofjs.com/). También surgen herramientas para poder testear webs basadas en estos frameworks, algunos ejemplos son [Jest](https://jestjs.io/), [Protactor](https://www.protractortest.org/), [Mocha](https://mochajs.org/), [Karma](http://karma-runner.github.io/), [Enzyme](https://airbnb.io/enzyme/).
+Arredor destas 3 tecnoloxías se crean frameworks de desenvolvemento web que permiten crear páxinas web cada vez máis complexas e funcionalidades que aportan cada vez máis valor. As últimas tendencias de desenvolvemento web nesta área son:
 
-**Frameworks y librerías CSS**: al igual que ocurre con **JavaScript**, tambien surge la aparición de nuevas librerías y frameworks para **CSS** que permiten gestionar mejor su desarrollo en grandes aplicaciones. Los más conocidos y utilizados son **Bootstrap y Material Design, **puedes ver más en nuestra entrada de [diseño web](https://www.mediaroomsolutions.es/tendencias-web). También aparecen los denominados **preprocesadores**, programas que permiten extender las funciones CSS con una sintaxis única que después será transformada al CSS original. Algúns ejemplos son: [Sass](https://sass-lang.com/), [Less](http://lesscss.org/), [Stylus,](http://stylus-lang.com/) y [PostCSS](https://postcss.org/).
+**Frameworks e librerías JavaScript:** coa finalidade de mellorar o desenvolvemento de JavaScript en proxectos grandes, van aparecendo - e desaparecendo!- frameworks e librerías como [Angular](https://angular.io/), [Vuejs](https://vuejs.org/) ou [React](https://reactjs.org/). O ecosistema **JavaScript** medra ano a ano e tódolos días se crean novas librerías. Unha boa referencia para manterse actualizados nestes avances [é esta guía](https://stateofjs.com/). Tamén xurden ferramentas para poder probar webs baseadas nestes frameworks, algúns exemplos son [Jest](https://jestjs.io/), [Protactor](https://www.protractortest.org/), [Mocha](https://mochajs.org/), [Karma](http://karma-runner.github.io/), [Enzyme](https://airbnb.io/enzyme/)...
 
-**Gestores de paquetes:** con el fin de gestionar librerías y plugins los desarrolladores utilizan gestores de paquetes, siendo los más extendidos [npm](https://www.npmjs.com/) y [yarn](https://yarnpkg.com/).
+**Frameworks e librerías CSS**: ao igual que ocorre con **JavaScript**, tamén aparecen novas librerías e frameworks para **CSS** que permiten xestionar mellor o desenvolvemento de aplicacións. Os máis coñecidos e utilizados son **Bootstrap e Material Design, **pero hai máis: PureCSS, Foundation, Milligram,.... Tamén están os denominados **preprocesadores**: programas que permiten estender as funcións CSS cunha sintaxe única que despois será transformada a CSS orixinal. Algúns exemplos destes preprocesadores son: [Sass](https://sass-lang.com/), [Less](http://lesscss.org/), [Stylus,](http://stylus-lang.com/) ou [PostCSS](https://postcss.org/).
 
-Herramientas para** construcción y desarrollo del código**: las más destacadas aquí son [NPM Scripts](https://medium.freecodecamp.org/introduction-to-npm-scripts-1dbb2ae01633), [Gulp](https://gulpjs.com/), [Webpack](https://webpack.js.org/) y [Rollup](https://rollupjs.org/).
+**Xestores de paquetes:** co fin de xestionar librerías e plugins os desenvolvedores utilizan xestores de paquetes, sendo os máis estendidos [npm](https://www.npmjs.com/) e [yarn](https://yarnpkg.com/).
+
+Ferramentas para **construcción e desenvolvemento do código**: as máis destacadas aquí son [NPM Scripts](https://medium.freecodecamp.org/introduction-to-npm-scripts-1dbb2ae01633), [Gulp](https://gulpjs.com/), [Webpack](https://webpack.js.org/) e [Rollup](https://rollupjs.org/).
+
+> *Unha web para ver as tendencias máis actuais no desenvolvemento web:* https://trends.uxdesign.cc/
 
 
 ### Linguaxes e tecnoloxías para programación web na contorna do servidor
@@ -120,7 +119,8 @@ Actualmente PHP funciona practicamente con calquera servidor web e en calquera S
 * Java
 * Clojure
 
-### Outras opciones:
+### Outras opcións:
+
 * Golang
 * Rust
 
@@ -141,7 +141,7 @@ Nas arquitecturas distribuidas é común o intercambio de mensaxes entre os dist
 * RabbitMQ
 * Kafka
 
-Os motores de búsqueda o **Search Engines** forman tamén parte do software empregado no lado do servidor:
+Os motores de busca ou **Search Engines** forman tamén parte do software empregado no lado do servidor:
 * ElasticSearch
 * Solr
 * Sphinx
@@ -164,7 +164,7 @@ Có crecente aumento dos servizos na nube, medra a demanda de expertos na área 
 * **Xestión de Servidores:** Linux, Windows.
 * **Proveedores de servizos cloud:** Amazon Web Services, Google Cloud Platform, Azure, Digital Ocean.
 * **Redes e Seguridade:** DNS, OSI Model, SSH, HTTP, HTTPS, FTP, SFTP, SSL / TLS.
-* **Aprovisionamiento de infraestructuras IT:** Contedores (Docker), Xestión da Configuración (Ansible), Orquestación (Kubernetes), Aprovisionamento (Terraform)
+* **Aprovisionamento de infraestruturas IT:** Contedores (Docker), Xestión da Configuración (Ansible), Orquestación (Kubernetes), Aprovisionamento (Terraform)
 * **Integración Continua e Entrega Continua:** Jenkins, Circle CI, Gitlab.
 * **Monitorización de infraestructura e aplicacións:** Nagios, Datadog, NewRelic, Zabbix.
 * **Xestión de logs, eventos e notificacións:** ELK, Graylog, Splunk, Papertrail.
