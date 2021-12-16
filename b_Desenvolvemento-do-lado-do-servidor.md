@@ -92,7 +92,7 @@ Arredor destas 3 tecnoloxías se crean frameworks de desenvolvemento web que per
 
 **Frameworks e librerías CSS**: ao igual que ocorre con **JavaScript**, tamén aparecen novas librerías e frameworks para **CSS** que permiten xestionar mellor o desenvolvemento de aplicacións. Os máis coñecidos e utilizados son **Bootstrap e Material Design**, pero hai máis: PureCSS, Foundation, Milligram,.... Tamén están os denominados **preprocesadores**: programas que permiten estender as funcións CSS cunha sintaxe única que despois será transformada a CSS orixinal. Algúns exemplos destes preprocesadores son: [Sass](https://sass-lang.com/), [Less](http://lesscss.org/), [Stylus,](http://stylus-lang.com/) ou [PostCSS](https://postcss.org/).
 
-**Xestores de paquetes:** co fin de xestionar librerías e plugins os desenvolvedores utilizan xestores de paquetes, sendo os máis estendidos [npm](https://www.npmjs.com/) e [yarn](https://yarnpkg.com/).
+**Xestores de paquetes:** co fin de xestionar librerías e plugins os desenvolvedores utilizan xestores de paquetes, sendo os máis estendidos [npm](https://www.npmjs.com/) e [yarn](https://yarnpkg.com/) (ambos de JS).
 
 Ferramentas para **construcción e desenvolvemento do código**: as máis destacadas aquí son [NPM Scripts](https://medium.freecodecamp.org/introduction-to-npm-scripts-1dbb2ae01633), [Gulp](https://gulpjs.com/), [Webpack](https://webpack.js.org/) e [Rollup](https://rollupjs.org/).
 
