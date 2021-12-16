@@ -87,7 +87,7 @@ Un contorno de desenvolvemento local constaría dos seguintes compoñentes:
 
   ![Configurar Git](./assets/config_git.png)
 
-- SSH - conexión segura cos nosos repositorios de Github
+- SSH - conexión segura cos nosos repositorios de Github  (SSH (o Secure SHell) es el nombre de un protocolo y del programa que lo implementa cuya principal función es el acceso remoto a un servidor por medio de un canal seguro en el que toda la información está cifrada.)
 
 - Localhost - servidor local
 
