@@ -1,6 +1,6 @@
 # software necesario para crear un sitio web
 
-Para crear e editar un sitio web, necesitas un editor de texto. Os editores de texto crean e modifican  arquivos de texto sen formato. Outros formatos, como **[RTF ](https://developer.mozilla.org/en-US/docs/Glossary/RTF)**, permítenche engadir formato, como negriña ou subliñado. Eses formatos non son axeitados para escribir páxinas web. 
+Para crear e editar un sitio web, necesitas un editor de texto. Os editores de texto crean e modifican  arquivos de texto sen formato. Outros formatos, como **[RTF ](https://developer.mozilla.org/en-US/docs/Glossary/RTF)**, permítenche engadir formato, como negriña ou subliñado. Eses formatos non son axeitados para escribir páxinas web. (RTF (Rich Text Format) is a plain-text-based file format with support for formatting instructions (like bold or italic))
 
 Todos os sistemas operativos de escritorio veñen cun editor de texto básico.  E con isto bastaría, pero carecen de calquera tipo de función especifica para a escritura de código.  Se queres algo un pouco máis útil, hai infinidade de ferramentas dispoñibles.  Moitos destes editores de terceiros adoitan incluír funcións adicionais, como a cor de sintaxe, o autocompletado, as seccións plegables, a busca de código...
 
