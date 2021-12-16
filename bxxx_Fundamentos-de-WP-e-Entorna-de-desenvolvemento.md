@@ -105,7 +105,7 @@ Un contorno de desenvolvemento local constaría dos seguintes compoñentes:
   - Manexo de dependencias
   - Automatización do fluxo de traballo
 
-- Gulp
+- Gulp ( kit de herramientas JavaScript de código abierto creado por Eric Schoffstall que se utiliza como sistema de compilación de transmisión en el desarrollo web front-end.)
 
 O fluxo de traballo é algo persoal, así que na personalización dos recursos enumerados está parte da clave da súa eficiencia. 
 
