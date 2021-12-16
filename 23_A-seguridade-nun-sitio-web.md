@@ -31,7 +31,7 @@ Por outra banda, hai ferramentas de escáneo de vulnerabilidades que poden axuda
 
 Aínda que os datos `POST`ou as solicitudes `GET` son a fonte máis común de vulnerabilidades XSS, calquera dato do navegador é potencialmente vulnerable, como os datos de cookies representados polo navegador ou os arquivos de usuario que se cargan e se mostran.
 
-A mellor defensa contra as vulnerabilidades XSS é eliminar ou desactivar calquera marcado que poida conter instrucións para executar o código. Toda HTML que inclúa elementos como `<script>`, `<object>`, `<embed>`A HTML que inclúe elementos como <script>, <object>, <embed>  e  <link>.
+A mellor defensa contra as vulnerabilidades XSS é eliminar ou desactivar calquera marcado que poida conter instrucións para executar o código. Toda HTML que inclúa elementos como `<script>`, `<object>`, `<embed>`.
 
 O proceso de modificar os datos do usuario para que non se poidan utilizar para executar scripts ou afectar doutro xeito á execución do código do servidor coñécese como **sanitización** de entrada. Moitos marcos web desinfectan automaticamente e por defecto a entrada do usuario dos formularios HTML.
 
