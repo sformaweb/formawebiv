@@ -35,7 +35,7 @@ Un problema recorrente para os deseñadores é que con demasiada frecuencia o ba
 
 Moitas veces as solucións adoptadas, a conta de máis complementos que veñen a completar o manexo da cache, a minificación ou o o servicio diferido dos recursos implicados non son sempre a mellor solución. Pero aí están.
 
-Despois de que o noso servidor localice o ID da publicación solicitada e despois de reunir tódolos elementos e recursos implicados na súa  visualización e cando se da resposta a solicitude do usuario e se lle devolve un documento html completo.
+Despois de que o noso servidor localice o ID da publicación solicitada e despois de reunir tódolos elementos e recursos implicados na súa  visualización é cando se da resposta a solicitude do usuario e se lle devolve un documento html completo.
 
 Moitas cousas suceden por detrás da escena antes de que o usuario reciba súa resposta. Parece moito para o pouco que en xeral se tarda en visualizar a páxina solicitada. Pero así acontece. E da capacidade do servidor, a arquitectura e a calidade da configuración xeral do sitio esa resposta pode ser moi rápida ou non tanto.
 
