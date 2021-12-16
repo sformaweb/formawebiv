@@ -38,6 +38,7 @@ Modelo de desenvolvemento de 3 capas segundo o software empregado en cada capa:
 * **[Apache](https://httpd.apache.org/) + PHP / IIS + ASP**: Un [servidor web](https://tecnogaming.com/web-servers-nginx-vs-apache-vs-lighttpd/) fornecido da linguaxe de programación axeitada permite xestionar a capa de negocio. Hai diversas opcións. Ao software servidor hai que provelo dunha linguaxe de guión que permita desenvolver a lóxica da aplicación.
   
 * **MySQL/PostgreSQL**: Para a xestión da capa de datos se emprega algún software ou sistema de xestión de bases de datos, como poden ser _MySQL_ ou _PostgreSQL_
+
  MySQL: es un sistema de gestión de bases de datos relacional desarrollado bajo licencia dual: Licencia pública general/Licencia comercial por Oracle Corporation
 
 
