@@ -17,7 +17,7 @@ Aquí tes unha pequena lista de editores:
 
 Cando o teu sitio web estea listo para a súa visualización pública, terás que cargar as túas páxinas web no teu servidor web. Podes mercar espazo nun servidor en varios provedores (consulta [Canto custa facer algo na web? ](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_much_does_it_cost)). Unha vez que decidas que provedor usar e contrates os seus servizos, o provedor enviarache por  correo electrónico a información de acceso. A forma máis común deste acceso consiste en:
 
--  unha URL (S)FTP
+-  unha URL (S)FTP (SSH File Transfer Protocol, es una forma mucho más segura de mover archivos. El protocolo SSH, admite el cifrado y otros métodos de seguridad utilizados para proteger mejor las transferencias de archivos. )
 
 - o nome de usuario e o contrasinal que nos autoriza o acceso
 
