@@ -52,13 +52,13 @@ Hai varios clientes SFTP. A nosa demostración abrangue [FileZilla ](https://fil
 
 Abra a aplicación FileZilla;  deberías ver algo así: 
 
-  ![img](C:\Users\User\Documents\GitHub\formawebiv\assets\filezilla-ui.png)
+  ![img](./assets/filezilla-ui.png)
 
 ### [Aquí e alí: vista local e remota ](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Upload_files_to_a_web_server#here_and_there_local_and_remote_view)
 
 Unha vez conectada, a túa pantalla debería verse así (conectamos a un exemplo noso para que che fagas unha idea): 
 
-  ![img](C:\Users\User\Documents\GitHub\formawebiv\assets\connected.png)
+  ![img](./assets/connected.png)
 
 Imos examinar o que estás a ver: 
 
@@ -76,7 +76,7 @@ Unha vez que atopes o  directorio remoto correcto para colocar os teus arquivos,
 
 Ata agora, todo ben, pero os arquivos están realmente en liña?  Podes comprobalo volvendo ao teu sitio web (p. ex `http://demozilla.examplehostingprovider.net/`) no teu navegador: 
 
-  ![Aquí imos: a nosa web está en directo!](C:\Users\User\Documents\GitHub\formawebiv\assets\here-we-go.png)
+  ![Aquí imos: a nosa web está en directo!](./assets/here-we-go.png)
 
 E a nosa web está en directo! 
 
@@ -94,5 +94,5 @@ ____
 DEC 2021
 
 
-
+🔖:
 ref: https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Upload_files_to_a_web_server
