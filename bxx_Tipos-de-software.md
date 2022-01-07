@@ -84,13 +84,12 @@ Tamén hai software **adware**, que inclue anuncios publicitarios, **shareware**
 ## Tipos de licencia de software
 
 - **Software libre**: aplicacións dispoñibles para ser utilizadas, copiadas, modificadas e distribuidas por calquera;
-- **Copyleft**: coma o software libre poden ser utilizadas por calquera pero non modificadas o redistribuidas;
+- **Copyleft**: coma o software libre poden ser utilizadas por calquera. Ofrece o dereito a distribuír libremente copias e versións modificadas de obras coa única restrición de que as novas obras teñen os  mesmos dereitos de distribución.
 - **GPL**: dirixida a Linux, limita a distribución e a integración de software;
 - **Debian**: redistribución libre onde o código fonte debe ser incluído e poder ser redistribuído;
 - **BSD**: conten poucas restricións sobre o uso, alteración e redistribución de software;
 - **Dominio público**: software sin copyright;
 - **Semi-libre**: non é libre pero permite ser usado por otros usuarios;
-- **Copyleft**: ofrece o dereito a distribuír libremente copias e versións modificadas de obras coa única restrición de que as novas obras teñen os  mesmos dereitos de distribución.
 - **Freeware**: usado para programas que poden ser redistribuidos pero non modificados;
 - **Comercial**: desarrollado por unha empresa co obxectivo de xerar beneficios;
 - **Trial**: versión de pago distribuída de maneira gratuíta durante un tempo limitado.

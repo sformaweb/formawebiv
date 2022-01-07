@@ -18,7 +18,7 @@ A diferencia sustancial entre o cliente e o servidor é o software con que se fo
 
 * **Capa de presentación**: É a capa onde a aplicación se expón as persoas. Básicamente é a capa gráfica ou GUI (Graphical User Interface, Interfaz Gráfica de Usuario). No caso dunha aplicación web sería o código HTML que se carga directamente no navegador web. Esta capa se executa directamente no equipo do cliente.
   
-* **Capa de negocio**:  É a capa intermedia onde se leva a cabo toda a lóxica da aplicación. Esta capa, tras realizar todos os cálculos e/ou operaciónss sobre os datos, xera o código HTML que será presentado as persoas na capa anterior(seguinte?). Sempre se executará no lado do servidor. 
+* **Capa de negocio**:  É a capa intermedia onde se leva a cabo toda a lóxica da aplicación. Esta capa, tras realizar todos os cálculos e/ou operacións sobre os datos, xera o código HTML que será presentado as persoas na capa anterior(seguinte?). Sempre se executará no lado do servidor. 
   
 * **Capa de datos**: É a capa que almacena os datos. Básicamente, en condiciones normais, fai referencia ao [SGBD](https://es.wikipedia.org/wiki/Sistema_de_gesti%C3%B3n_de_bases_de_datos) que é o encargado de almacenar os datos. Dependendo da arquitectura da aplicación, esta capa  e a capa de negocio se poden atopar fisicamente no mesmo equipo, inda que por razóns de rendemento tamén é posible que se teñan que separar. A capa de datos sirve toda a información necesaria á capa de negocio para que está complete as súas operacións.
 
