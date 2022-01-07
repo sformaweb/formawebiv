@@ -12,7 +12,7 @@
 
 
 
-![Gutenberg arrastrar e soltar](C:\Users\User\Documents\GitHub\formawebiv\assets\gutenberg-drag-and-drop.gif)
+![Gutenberg arrastrar e soltar](./assets/gutenberg-drag-and-drop.gif)
 
 Gutenberg é un editor baseado en bloques. 
 

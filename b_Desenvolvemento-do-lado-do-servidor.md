@@ -29,7 +29,7 @@ Imaxina unha tenda online:
 
 Se ollamos un caso concreto con software e tecnoloxías xa definidos, un modelo de 3 capas podría ser o seguinte:
 
-![metodo3capas.png](assets/metodo3capas.png)
+![metodo3capas.png](./assets/metodo3capas.png)
 
 Modelo de desenvolvemento de 3 capas segundo o software empregado en cada capa:
 
@@ -76,7 +76,7 @@ Entendemos por **tecnoloxías frontend** ao **conxunto de tecnoloxías que funci
 
 ### **Tecnoloxías frontend**
 
- ![https://www.rozpalsac.com/wp-content/uploads/2019/10/frontend-1-1024x514-1024x514.jpg](C:\Users\User\Documents\GitHub\formawebiv\assets\frontend-1-1024x514-1024x514.jpg)
+ ![tecnoloxías frontend](./assets/frontend-1-1024x514-1024x514.jpg)
 
 [**HTML5**](http://w3c.github.io/html/introduction.html): É a tecnoloxía principal utilizada para estructurar os contidos na web, estandarizada pola [w3c](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium). É un linguaxe de marcado que permite crear a estructura e elementos dunha web que despois serán interpretados polos navegadores.
 
